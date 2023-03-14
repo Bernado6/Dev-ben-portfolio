@@ -11,6 +11,7 @@ import Portfolio104 from '../../assets/portfolio104.png';
 import Portfolio105 from '../../assets/portfolio105.png';
 import Portfolio106 from '../../assets/portfolio106.png';
 import Portfolio107 from '../../assets/portfolio107.jpg';
+import Portfolio8 from '../../assets/portfolio8.png';
 import Fade from 'react-reveal/Fade';
 
 
@@ -53,6 +54,13 @@ const data = [
     title: "E-Commerce website using React",
     github: "https://github.com/Bernado6/React-Company",
     demo: "https://ketfashion.netlify.app//"
+  },
+  {
+    id: 8,
+    image: Portfolio8,
+    title: "React-Dashboard ",
+    github: "https://github.com/Bernado6/React-Dashboard",
+    demo: "https://d1422084k0huim.cloudfront.net/"
   }
   
 ]

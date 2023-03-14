@@ -58,7 +58,7 @@ const Services = () => {;
             </li>
             <li>
               <BsFillCheckCircleFill className='service_list-icon' />
-              <p>Organizational/College/Institutional Website</p>
+              <p>Organization/College/Institution Website</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service_list-icon' />
